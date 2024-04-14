@@ -23,7 +23,7 @@ const Navbar = () => {
         <Link href='/' className='flex items-center gap-2'>
          
           <span className='text-base font-bold text-zinc-700'>
-            Task Manager/ Todo List
+            Task Manager Go / Todo List
           </span>
         </Link>
         {/* brand */}

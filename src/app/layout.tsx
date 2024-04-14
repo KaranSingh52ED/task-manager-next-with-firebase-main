@@ -9,7 +9,7 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Task Planner Pro',
+  title: 'Task Manager Go',
   description: 'Manage all of your tasks in one go',
   viewport: {
     width: 'device-width',
